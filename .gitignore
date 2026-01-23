@@ -319,3 +319,4 @@ TSWLatexianTemp*
 *.pdf
 *_html.tex
 lwarp*.*
+*.lwarpmkconf
